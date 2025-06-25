@@ -1,0 +1,15 @@
+
+.movie-card{
+    width: 200px;
+    position: relative;
+    img{
+        width: 100%;
+    }
+    p{
+        position: absolute;
+        bottom: 10px;
+        left: -30px;
+        font-size: 100px;
+        font-weight: bolder;
+    }
+}
